@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-md-12 {
+  text-align: center;
+}
+
+.customDivImage {
+  margin: 20px;
+  min-height: 150px;
+  background-color: green;
+  text-align: center;
+  font-size: large;
+}
+
+.customDivHeader {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
