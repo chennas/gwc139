@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: UserRegisteration
+  description: UserRegisteration that can be used to register with interal applications.
+  tags:
+    - csharp
+    - golang
+    - html
+    - java
+    - websockets
+    - grpc
+spec:
+  type: service
+  lifecycle: POC
+  owner: user:guest
+  system: xyzconfig-playback
