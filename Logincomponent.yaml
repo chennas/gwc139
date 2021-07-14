@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Logincomponent
+  description: Logincomponent that is used to authenticate with any social media provider
+  tags:
+    - csharp
+    - golang
+    - html
+    - java
+    - HTTP
+spec:
+  type: service
+  lifecycle: POC
+  owner: user:guest
+  system: xyzconfig-playback
