@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: www.2gwc139-2.com
   description: 2gwc139-2 XYZ Service
+tags:
+    - HTML
+    - ReactJs
 spec:
   type: MicroService
   lifecycle: Development
