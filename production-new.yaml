@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: production-order
+  description: production Order
+  tags:
+    - java
+spec:
+  type: service
+  lifecycle: production
+  owner: user:guest
+  system: production-playback
