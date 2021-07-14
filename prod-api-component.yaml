@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: podcast-api
-  description: Podcast API
+  name: prod-api
+  description: prod-api
   tags:
     - java
 spec:
