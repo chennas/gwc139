@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: www.preprodconfi-2.com
+  description: preprodconfi-2 XYZ Service
+tags:
+    - HTML
+    - ReactJs
+spec:
+  type: MicroService
+  lifecycle: Development
+  owner: preprodconfi-2 Team A
+  system: preprodconfi-2 System A
