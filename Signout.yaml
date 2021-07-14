@@ -2,15 +2,14 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Signout
-  description: Signout library is used to signout all the logged in sessions accross the multiple websites.
+  description: Signout library used to singout from all the session across the multiple web sites
   tags:
-    - csharp
-    - golang
-    - html
     - java
-    - websockets
-    - grpc
-links:
+    - golang
+    - css
+    - javascript
+    - postrges database
+  links:
     - url: https://example.com/user
       title: Examples Users
       icon: user
@@ -34,7 +33,7 @@ links:
       icon: alert
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: team-a
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
