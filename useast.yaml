@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: useast-api
+  description: useast API
+  tags:
+    - Csharp
+spec:
+  type: service
+  lifecycle: useast
+  owner: useast-b
+  system: useast
