@@ -4,7 +4,6 @@ metadata:
   name: localconfig-order
   description: localconfig Order
   tags:
-    - java
     - javaScript
 spec:
   type: service
