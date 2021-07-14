@@ -5,7 +5,8 @@ metadata:
   description: QA Order
   tags:
     - java
-    - playback
+    - Html
+    - JavaScript
 spec:
   type: service
   lifecycle: QA
