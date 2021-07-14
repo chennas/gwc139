@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Signout
+  description: Signout library is used to signout all the logged in sessions accross the multiple websites.
+  tags:
+    - csharp
+    - golang
+    - html
+    - java
+    - websockets
+    - grpc
