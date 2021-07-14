@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: 3gwc139-lookup
-  description: 3gwc139 Lookup
+  name: artist-lookup
+  description: Artist Lookup
   tags:
-    - HTML
+    - Html
     - React
   links:
     - url: https://example.com/user
@@ -30,7 +30,7 @@ metadata:
       icon: alert
 spec:
   type: service
-  lifecycle: preprod
-  owner: 3gwc139-a
+  lifecycle: experimental
+  owner: team-a
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
