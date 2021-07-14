@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: CBRE-1-order
+  description: newconfig Order
+  tags:
+    - csharp
+    - dotnet
+    - html
+    - javascript
+    - golang
+    - html
+    - java
+spec:
+  type: service
+  lifecycle: POC
+  owner: user:CBRE-1
+  system: xyzconfig-playback
