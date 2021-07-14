@@ -3,9 +3,6 @@ kind: Component
 metadata:
   name: www.preprodconfi-2.com
   description: preprodconfi-2 XYZ Service
-tags:
-    - HTML
-    - ReactJs
 spec:
   type: MicroService
   lifecycle: Development
