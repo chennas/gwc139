@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Signout
-  description: Signout library used to singout from all the session across the multiple web sites
+  description: Signout library used to singout from all the sessios.
   tags:
     - java
     - golang
