@@ -4,7 +4,7 @@ metadata:
   name: podcast-api
   description: Podcast API
   tags:
-    - java11
+    - csharp
 spec:
   type: service
   lifecycle: experimental
