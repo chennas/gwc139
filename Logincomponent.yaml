@@ -8,7 +8,8 @@ metadata:
     - golang
     - html
     - java
-    - HTTP
+    - websockets
+    - grpc
 spec:
   type: service
   lifecycle: POC
