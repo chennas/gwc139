@@ -8,7 +8,7 @@ metadata:
     - golang
     - css
     - javascript
-    - postrges database
+    - postrges-database
   links:
     - url: https://example.com/user
       title: Examples Users
