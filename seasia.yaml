@@ -5,7 +5,6 @@ metadata:
   description: seasia Order
   tags:
     - java
-    - Html
     - JavaScript
 spec:
   type: service
