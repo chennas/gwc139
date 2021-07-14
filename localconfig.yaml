@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: localconfig-order
+  description: localconfig Order
+  tags:
+    - java
+    - javaScript
+spec:
+  type: service
+  lifecycle: localconfig
+  owner: user:guest
+  system: localconfig-playback
