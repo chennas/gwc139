@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: seasia-order
+  description: seasia Order
+  tags:
+    - java
+    - Html
+    - JavaScript
+spec:
+  type: service
+  lifecycle: seasia
+  owner: user:guest
+  system: seasia-playback
