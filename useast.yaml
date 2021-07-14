@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: useast-api
-  description: useast API
+  name: podcast-api
+  description: Podcast API
   tags:
-    - Csharp
+    - java11
 spec:
   type: service
-  lifecycle: useast
-  owner: useast-b
-  system: useast
+  lifecycle: experimental
+  owner: team-b
+  system: podcast
