@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: www.preprodconfi-2.com
-  description: preprodconfi-2 XYZ Service
+  name: www.preprodconfig-2.com
+  description: preprodconfig-2 XYZ Service
 spec:
   type: MicroService
   lifecycle: Development
-  owner: preprodconfi-2 Team A
-  system: preprodconfi-2 System A
+  owner: preprodconfig-2 Team A
+  system: preprodconfig-2 System A
