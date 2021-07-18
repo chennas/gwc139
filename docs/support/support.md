@@ -1,7 +1,7 @@
-    ---
+---
 id: support
-title: Support and community
-description: Support and Community Details and Links
+title: component Support and community
+description: component Support and Community Details and Links
 ---
 
 - [Blog](https://backstage.io/blog/) - Announcements and updates.
