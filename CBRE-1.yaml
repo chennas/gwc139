@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: CBRE-1-order
-  description: newconfig Order
+  description: CBRE 1st Order
   domain: Realestate
   status: Approved
   createddate: 07-04-2021
