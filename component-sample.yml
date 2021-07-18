@@ -8,7 +8,7 @@ metadata:
     release: stable
     track: weekly
   annotations:
-    backstage.io/managed-by-location: url:http://github.com/backstage/backstage/blob/master/catalog-info.yaml
+    backstage.io/techdocs-ref: url:http://github.com/backstage/backstage/blob/master/catalog-info.yaml
   tags:
     - java
     - javascript
