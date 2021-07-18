@@ -17,4 +17,4 @@ nav:
               - Physical - Architecture: "architecture-decisions/physicalarchitecture.md"
               - Logical - Architecture: "architecture-decisions/logicalarchitecture.md"
       - Support:
-              - Backstage Project Structure: "support/support.md"
+              - component Project Structure: "support/support.md"
