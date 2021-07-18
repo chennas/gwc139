@@ -3,9 +3,6 @@ kind: Component
 metadata:
   name: abcd-order
   description: newconfig Order
-  domain: Realestate
-  status: Under Review
-  createddate: 07-18-2021
   tags:
     - csharp
     - dotnet
@@ -16,3 +13,6 @@ spec:
   lifecycle: POC
   owner: user:Offshoreteam
   system: xyzconfig-playback
+  domain: Realestate
+  createddate: 07-18-2021
+  status: Under Review
