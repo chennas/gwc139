@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: CBRE-2-order
-  description: newconfig Order
+  description: CBRE 2 order
   domain: Realestate
   status: Rejected
   createddate: 07-15-2021
