@@ -8,7 +8,7 @@ metadata:
     release: stable
     track: weekly
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139/blob/development/index.md
+    backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139/blob/development/docs/index.md
   tags:
     - java
     - javascript
