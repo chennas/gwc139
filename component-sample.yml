@@ -39,4 +39,4 @@ spec:
   subcomponentOf: artist-lookup
   providesApis: [spotify]
   consumesApis: [starwars-graphql]
-  dependsOn: ["component:CBRE-1-order", "resource:artists-db"]
+  dependsOn: ["resource:artists-db"]
