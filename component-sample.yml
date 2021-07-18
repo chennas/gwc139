@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: component-sample
   description: Full blown sample yaml file that describes about the component
+  domain: Realestate
+  createddate: 07-18-2021
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139
   tags:
