@@ -4,7 +4,7 @@ metadata:
   name: component-sample
   description: Full blown sample yaml file that describes about the component
   domain: Realestate
-  status: Rejected
+  status: Approved
   createddate: 07-15-2021
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139
