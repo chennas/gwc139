@@ -8,7 +8,7 @@ metadata:
     release: stable
     track: weekly
   annotations:
-    backstage.io/techdocs-ref: url:http://github.com/backstage/backstage/blob/master/catalog-info.yaml
+    backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139
   tags:
     - java
     - javascript
