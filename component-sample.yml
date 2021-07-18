@@ -3,10 +3,6 @@ kind: Component
 metadata:
   name: component-sample
   description: Full blown sample yaml file that describes about the component
-  labels:
-    environment: dev
-    release: stable
-    track: weekly
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139/blob/development/docs/index.md
   tags:
