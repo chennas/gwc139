@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sub-component-sample
+  description: Full blown sample yaml file that describes about the component
+  tags:
+    - postgresql
+    - go
+  links:
+    - url: https://example.com/user
+      title: Examples Users
+      icon: user
+spec:
+  type: service
+  lifecycle: development
+  owner: team-a
+  system: sample system
+  subcomponentOf: component-sample
