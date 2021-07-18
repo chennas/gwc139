@@ -37,6 +37,6 @@ spec:
   owner: team-a
   system: sample system
   subcomponentOf: anothercomponent
-  providesApis: [sampleapi]
-  consumesApis: [databaseapi]
+  providesApis: [spotify]
+  consumesApis: [starwars-graphql]
   dependsOn: ["resource:sample-db"]
