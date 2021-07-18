@@ -1,0 +1,20 @@
+site_name: "component-sample-docs"
+site_description: "Main documentation for component-sample features and platform APIs"
+
+plugins:
+    - techdocs-core
+
+nav:
+    - Overview:
+          - What is component-sample?: "overview/what-is-component-sample.md"
+          - Architecture overview: "overview/architecture-component-sample.md"
+    - Getting Started:
+          - Getting Started: "getting-started/index.md"
+    - Integrations:
+          - Overview: "integrations/index.md"
+    - Architecture Diagrams:
+          - Overview: "architecture-decisions/index.md"
+          - Physical - Architecture: "architecture-decisions/physicalarchitecture.md"
+          - Logical - Architecture: "architecture-decisions/logicalarchitecture.md"
+    - Support:
+          - Backstage Project Structure: "support/support.md"
