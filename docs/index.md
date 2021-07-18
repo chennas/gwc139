@@ -5,8 +5,7 @@ Description: Sample is a stupidly simple, blazing fast, flat file CMS.
 
 ## Welcome to ComponentSample Tech docs
 
-Congratulations, you have successfully installed [ComponentSample][] %version%.
-%meta.description% <!-- replaced by the above Description header -->
+Congratulations, you have successfully installed [ComponentSample]
 
 ## Creating Content
 
