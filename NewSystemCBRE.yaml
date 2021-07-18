@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: NewSystemCBRE
+  description: NewSystemCBRE own host portal
+spec:
+  owner: devopsteam-satyaraju
+  domain: realestate
