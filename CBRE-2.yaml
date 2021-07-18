@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: CBRE-2-order
   description: newconfig Order
+  domain: Realestate
+  status: Rejected
+  createddate: 07-15-2021
   tags:
     - csharp
     - dotnet
