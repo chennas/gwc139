@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sub-component-sample
-  description: Full blown sample yaml file that describes about the component
+  description: sub-component-sample Full blown sample yaml file that describes about the component
   domain: BrokerData
   status: Approved
   createddate: 07-10-2021
