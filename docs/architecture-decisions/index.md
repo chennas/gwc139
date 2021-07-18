@@ -5,8 +5,8 @@ Description: We integreate anything with every thing.
 
 ## Welcome to ComponentSample Tech docs
 
-Congratulations, We integreate anything with every thing.
+Congratulations, Architecture is a great thing.
 
 ## Creating Content
 
-We integreate anything with every thing.
+We architecture, please check our 2 diagrams.
