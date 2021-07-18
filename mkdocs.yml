@@ -9,7 +9,7 @@ nav:
               - What is component-sample?: "overview/what-is-component-sample.md"
               - Architecture overview: "overview/architecture-component-sample.md"
       - Getting Started:
-              - Getting Started: "getting-started/index.md"
+              - Started with basics: "getting-started/index.md"
       - Integrations:
               - Overview: "integrations/index.md"
       - Architecture Diagrams:
