@@ -2,19 +2,21 @@ site_name: "component-sample-docs"
 site_description: "Main documentation for component-sample features and platform APIs"
 
 plugins:
-      - techdocs-core
+        - techdocs-core
 
 nav:
-      - Overview:
-              - What is component-sample?: "overview/what-is-component-sample.md"
-              - Architecture overview: "overview/architecture-component-sample.md"
-      - Getting Started:
-              - Started with basics: "getting-started/index.md"
-      - Integrations:
-              - Overview: "integrations/index.md"
-      - Architecture Diagrams:
-              - Overview: "architecture-decisions/index.md"
-              - Physical - Architecture: "architecture-decisions/physicalarchitecture.md"
-              - Logical - Architecture: "architecture-decisions/logicalarchitecture.md"
-      - Support:
-              - component Project Structure: "support/support.md"
+        - Home: index.md
+        - Overview:
+                  - What is component-sample?: "overview/what-is-component-sample.md"
+                  - Architecture overview: "overview/architecture-component-sample.md"
+        - Getting Started:
+                  - Started with basics: "getting-started/index.md"
+        - Integrations:
+                  - Overview: "integrations/index.md"
+        - Architecture Diagrams:
+                  - Overview: "architecture-decisions/index.md"
+                  - Physical - Architecture: "architecture-decisions/physicalarchitecture.md"
+                  - Logical - Architecture: "architecture-decisions/logicalarchitecture.md"
+        - Support:
+                  - component Project Structure: "support/support.md"
+                  - Massive Help document: "support/massivehelp.md"
