@@ -1,0 +1,42 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: component-sample
+  description: Full blown sample yaml file that describes about the component
+  labels: { "label1": "labelvalue1", "label2": "labelvalue2" }
+  annotations:
+    { "annotation1": "annotationvalue1", "annotation2": "annotationvalue2" }
+  tags:
+    - java
+    - javascript
+  links:
+    - url: https://example.com/user
+      title: Examples Users
+      icon: user
+    - url: https://example.com/group
+      title: Example Group
+      icon: group
+    - url: https://example.com/cloud
+      title: Link with Cloud Icon
+      icon: cloud
+    - url: https://example.com/dashboard
+      title: Dashboard
+      icon: dashboard
+    - url: https://example.com/help
+      title: Support
+      icon: help
+    - url: https://example.com/web
+      title: Website
+      icon: web
+    - url: https://example.com/alert
+      title: Alerts
+      icon: alert
+spec:
+  type: service
+  lifecycle: development
+  owner: team-a
+  system: sample system
+  subcomponentOf: anothercomponent
+  providesApis: [sampleapi]
+  consumesApis: [databaseapi]
+  dependsOn: ["resource:sample-db"]
