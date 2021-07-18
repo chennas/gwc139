@@ -3,9 +3,12 @@ kind: Component
 metadata:
   name: component-sample
   description: Full blown sample yaml file that describes about the component
-  labels: { "label1": "labelvalue1", "label2": "labelvalue2" }
+  labels:
+    environment: dev
+    release: stable
+    track: weekly
   annotations:
-    { "annotation1": "annotationvalue1", "annotation2": "annotationvalue2" }
+    backstage.io/managed-by-location: url:http://github.com/backstage/backstage/blob/master/catalog-info.yaml
   tags:
     - java
     - javascript
@@ -39,4 +42,4 @@ spec:
   subcomponentOf: artist-lookup
   providesApis: [spotify]
   consumesApis: [starwars-graphql]
-  dependsOn: ["resource:artists-db"]
+  dependsOn: ["component:CBRE-1-order", "resource:artists-db"]
