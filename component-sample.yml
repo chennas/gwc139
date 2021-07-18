@@ -36,7 +36,7 @@ spec:
   lifecycle: development
   owner: team-a
   system: sample system
-  subcomponentOf: anothercomponent
+  subcomponentOf: artist-lookup
   providesApis: [spotify]
   consumesApis: [starwars-graphql]
   dependsOn: ["resource:sample-db"]
