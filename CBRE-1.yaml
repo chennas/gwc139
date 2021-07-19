@@ -17,5 +17,5 @@ metadata:
 spec:
   type: service
   lifecycle: POC
-  owner: user:CBRE-1
+  owner: user:siva.reddy@cbre.com,subrato@cbre.com,gaurav@cbre.com
   system: xyzconfig-playback
