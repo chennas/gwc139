@@ -4,7 +4,7 @@ metadata:
   name: CBRE-2-order
   description: CBRE 2 order
   domain: Realestate
-  status: Rejected
+  status: Approved
   createddate: 07-15-2021
   tags:
     - csharp
