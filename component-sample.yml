@@ -37,6 +37,7 @@ spec:
   type: service
   lifecycle: development
   owner: team-a
+  secondaryonwer: siva
   system: sample system
   subcomponentOf: artist-lookup
   providesApis: [spotify]
