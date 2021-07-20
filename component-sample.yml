@@ -33,7 +33,7 @@ metadata:
 spec:
   type: service
   lifecycle: development
-  owner: team-a
+  owner: team-cbre
   system: sample system
   subcomponentOf: artist-lookup
   providesApis: [spotify]
