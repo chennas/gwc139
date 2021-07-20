@@ -1,21 +1,2 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-metadata:
-  name: CBRE-1-order
-  description: CBRE 1st Order
-  domain: Realestate
-  status: Approved
-  createddate: 07-04-2021
-  tags:
-    - csharp
-    - dotnet
-    - html
-    - javascript
-    - golang
-    - html
-    - java
-spec:
-  type: service
-  lifecycle: POC
-  owner: user:siva
-  system: xyzconfig-playback
