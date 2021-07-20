@@ -1,2 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+metadata:
+  name: CBRE-1-order
+  description: CBRE-1 order
+  tags:
+    - csharp
+    - dotnet
+spec:
+  type: service
+  lifecycle: POC
+  owner: user:CBRE-1
+  system: xyzconfig-playback
