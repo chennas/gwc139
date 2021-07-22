@@ -4,7 +4,7 @@ metadata:
   name: component-sample
   description: Full blown sample yaml file that describes about the component
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/UrlLinkToTheRepo/Path
+    backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139
   tags:
     - java
     - javascript
@@ -34,7 +34,6 @@ spec:
   type: service
   lifecycle: development
   owner: team-cbre
-  system: sample system
   subcomponentOf: artist-lookup
   providesApis: [spotify]
   consumesApis: [starwars-graphql]
