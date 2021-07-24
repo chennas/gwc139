@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: CBRE-1-order
   description: CBRE-1 order
+  devxstatus: underreview
+  devxcreateddate: 07-15-2021
   tags:
     - csharp
     - dotnet
