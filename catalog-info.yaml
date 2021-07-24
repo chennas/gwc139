@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gwc139
+  annotations:
+    github.com/project-slug: chennas/gwc139
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sivakumar
