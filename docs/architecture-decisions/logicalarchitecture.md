@@ -5,4 +5,4 @@ Description: Sample is a stupidly simple, blazing fast, flat file CMS.
 
 ## Welcome to Logical architecture diagram
 
-![image](https://user-images.githubusercontent.com/8044128/126077576-cf4d0f60-11e0-4515-ba1d-f69364fa33b7.png)
+![image](https://user-images.githubusercontent.com/8044128/127051195-29352ccf-d803-4189-88e8-d6acecf4c86b.png)
