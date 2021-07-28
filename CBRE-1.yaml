@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: POC
-  owner: user:bill.mcfarland@cbre.com
+  owner: user:bill.mcfarland_cbre.com
   system: xyzconfig-playback
