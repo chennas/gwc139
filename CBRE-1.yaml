@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: POC
-  owner: user:rajesh.chaganti
+  owner: team-cbre-new
   system: xyzconfig-playback
