@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: POC
-  owner: user:bill.mcfarland
+  owner: user:rajesh.chaganti
   system: xyzconfig-playback
