@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HANA-1-order
+  description: HANA-1 order
+  tags:
+    - golang
+    - javascript
+spec:
+  type: service
+  lifecycle: Development
+  owner: team-cbre-hana
+  system: hana-playback

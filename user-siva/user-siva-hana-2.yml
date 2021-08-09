@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HANA-2-order
+  description: HANA 2 order
+  tags:
+    - csharp
+    - dotnet
+spec:
+  type: service
+  lifecycle: POC
+  owner: user:siva.reddy
+  system: hana-playback
