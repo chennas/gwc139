@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: additional
+  description: additional
+  devxstatus: underreview
+  devxcreateddate: 07-15-2021
+  tags:
+    - csharp
+    - dotnet
+spec:
+  type: service
+  lifecycle: POC
+  owner: team-cbre-new
+  system: xyzconfig-playback
