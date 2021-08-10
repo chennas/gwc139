@@ -3,8 +3,6 @@ kind: Component
 metadata:
   name: additional
   description: additional
-  devxstatus: underreview
-  devxcreateddate: 07-15-2021
   tags:
     - csharp
     - dotnet
