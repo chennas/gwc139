@@ -1,0 +1,55 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: APIWITHREUSBALE11
+  description: Test
+  tags:
+    - devx
+    - reusable
+  apigatewayenvironments:
+    - Azure APAC(HK) Pre-Production Gateways
+    - Azure Pre-Production Gateways
+    - AWS Pre-Production Gateways
+  apiscope: Partner
+  apiversion: "1.0"
+  apisegment: Global Advisory
+  apiLOB: Global Advisory - A&T
+  apiservice: Expense Management Solutions
+  apicountry: United States of America
+  apmid: NA1011
+  apicategory: Functional
+  apiperformance:
+  apiregions:
+    - Americas
+  creationDateTime:
+  devxstate: Approved
+  avgrating:
+  rating:
+    - user:
+      value:
+  comments:
+    - reviewer:
+        user:
+        date:
+        comments:
+    - publisher:
+        user:
+        date:
+        comments:
+spec:
+  type: HTTP
+  lifecycle: production
+  owner: user:jayant.bamroo
+  techowner: user:akash.jaiswal
+  resuable: y
+  definition:
+    "$text":
+      swagger:2.0,paths:{todos:{get:{responses:{200:{description:}},x-auth-type:Application
+      & Application User,x-throttling-tier:Unlimited}}},info:{title:APIWITHREUSBALE11,version:1.0,description:Test
+  apiendpoints:
+    production_endpoints: url:https://jsonplaceholder.typicode.com
+    config:
+      suspendDuration: 0
+      suspendMaxDuration: 0
+      template_not_supported: false
+    endpoint_type: http
