@@ -6,3 +6,4 @@ spec:
   profile:
     # Intentional no displayName for testing
     email: Siva.Kumar2@cbre.com
+  memberOf: [team-a, team-b]
