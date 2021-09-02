@@ -1,0 +1,11 @@
+apiVersion: "backstage.io/v1alpha1"
+kind: "User"
+metadata:
+  name: "Vipin.Agarwal"
+spec:
+  profile:
+    displayName: "Vipin Agarwal"
+    email: "Vipin.Agarwal@cbre.com"
+    picture: "https://dev.azure.com/cbre/_api/_common/identityImage?id=9869e71b-f898-6a43-b703-56d194d5986c"
+  memberOf:
+  - "cbre"
