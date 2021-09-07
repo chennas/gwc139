@@ -1,11 +1,10 @@
 apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
-  name: docs-template
+  name: tech-docs-template
   title: Documentation Template
   description: Create a new standalone documentation project
   tags:
-    - recommended
     - techdocs
     - mkdocs
 spec:
