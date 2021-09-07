@@ -6,4 +6,4 @@ metadata:
 spec:
   type: url
   targets:
-    - https://github.com/backstage/software-templates/blob/main/scaffolder-templates/docs-template/template.yaml
+    - https://github.com/chennas/gwc139/blob/development/docs-template/template.yaml
