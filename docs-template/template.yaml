@@ -9,7 +9,7 @@ metadata:
     - techdocs
     - mkdocs
 spec:
-  owner: backstage/techdocs-core
+  owner: gwc139/siva-shared-code
   type: documentation
 
   parameters:
