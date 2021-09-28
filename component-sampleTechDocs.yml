@@ -4,7 +4,7 @@ metadata:
   name: component-sampleTechDocs
   description: Full blown sample yaml file that describes about the component
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/chennas/gwc139
+    backstage.io/techdocs-ref: dir:.
   tags:
     - java
     - javascript
