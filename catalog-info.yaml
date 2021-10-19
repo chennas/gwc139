@@ -4,10 +4,6 @@ metadata:
   name: gwc139
   tags:
     - java
-    - javascript
-    - golang
-    - html
-    - abcdefghijkl
   annotations:
     github.com/project-slug: chennas/gwc139
 spec:
