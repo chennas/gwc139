@@ -4,6 +4,7 @@ metadata:
   name: gwc139
   tags:
     - java
+    - html
   annotations:
     github.com/project-slug: chennas/gwc139
 spec:
