@@ -5,6 +5,8 @@ metadata:
   tags:
     - golang
     - hyperscript
+    - hava
+    - typescript
   annotations:
     github.com/project-slug: chennas/gwc139
 spec:
