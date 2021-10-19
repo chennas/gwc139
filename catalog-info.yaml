@@ -2,6 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: gwc139
+  tags:
+    - java
+    - javascript
   annotations:
     github.com/project-slug: chennas/gwc139
 spec:
